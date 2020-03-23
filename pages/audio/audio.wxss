@@ -1,0 +1,17 @@
+/* pages/audio/audio.wxss */
+page{
+  width: 100%;
+}
+button{
+  width:100% !important;
+  margin-top: 10rpx;
+}
+.swiper-images{
+  text-align: center;
+  margin-top: 30rpx;
+  width: 100% !important;
+  height: 240px;
+}
+.swiper-images image{
+  width: 100%;
+}
